@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ragil1114/jest-another-RPG/issues"
   },
-  "homepage": "https://github.com/ragil1114/jest-another-RPG#readme"
+  "homepage": "https://github.com/ragil1114/jest-another-RPG#readme",
+  "devDependencies": {
+    "jest": "^27.4.7"
+  }
 }
